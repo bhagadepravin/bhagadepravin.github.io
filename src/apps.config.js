@@ -37,15 +37,6 @@ const apps = [
         screen: displayAboutVivek,
     },
     {
-        id: "vscode",
-        title: "Visual Studio Code",
-        icon: './themes/Yaru/apps/vscode.png',
-        disabled: false,
-        favourite: true,
-        desktop_shortcut: false,
-        screen: displayVsCode,
-    },
-    {
         id: "terminal",
         title: "Terminal",
         icon: './themes/Yaru/apps/bash.png',
