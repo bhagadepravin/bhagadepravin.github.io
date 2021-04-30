@@ -114,7 +114,7 @@ function About() {
             </div>
             <div className=" mt-4 md:mt-8 text-lg md:text-2xl text-center px-1">
                 <div>my name is <span className="font-bold">Pravin Bhagade</span> ,</div>
-                <div className="font-normal ml-1">I'm a <span className="text-pink-600 font-bold">Platfrom Security Engineer/Backline Engineer!</span></div>
+                <div className="font-normal ml-1">I'm a <span className="text-pink-600 font-bold">Platform Security Engineer/Backline Engineer!</span></div>
             </div>
             <div className=" my-4 relative md:my-8 pt-px bg-white w-32 md:w-48">
                 <div className="bg-white absolute rounded-full p-0.5 md:p-1 top-0 transform -translate-y-1/2 left-0"></div>
