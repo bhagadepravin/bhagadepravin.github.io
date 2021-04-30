@@ -28,8 +28,8 @@ const apps = [
         screen: displayTodoist,
     },
     {
-        id: "about-vivek",
-        title: "About Akhil",
+        id: "about-pravin",
+        title: "About Pravin",
         icon: './themes/Yaru/system/user-home.png',
         disabled: false,
         favourite: true,
