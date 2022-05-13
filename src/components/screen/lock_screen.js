@@ -12,6 +12,7 @@ export default function LockScreen(props) {
         "wall-6": "./images/wallpapers/minified/wall-6.jpeg",
         "wall-7": "./images/wallpapers/minified/wall-7.jpeg",
         "wall-8": "./images/wallpapers/minified/wall-8.jpg",
+        "wall-9": "./images/wallpapers/minified/wall-9.jpg",
     };
 
     if (props.isLocked) {
